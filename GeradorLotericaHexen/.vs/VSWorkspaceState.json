@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\Connected Services",
+    "\\obj",
+    "\\Properties"
   ],
-  "SelectedNode": "\\TelaPrincipal.Designer.cs",
+  "SelectedNode": "\\GeradorLotericaHexen.csproj.user",
   "PreviewInSolutionExplorer": false
 }
