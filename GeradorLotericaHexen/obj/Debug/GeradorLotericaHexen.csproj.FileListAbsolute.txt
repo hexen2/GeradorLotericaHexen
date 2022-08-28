@@ -1,0 +1,244 @@
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojResolveAssemblyReference.cache
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.Cache
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+c:\users\dalvares\documents\visual studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+C:\Users\hexen\source\repos\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\hexen\source\repos\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+D:\GeradorLotericaHexen - 7-6-2020\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+D:\GeradorLotericaHexen Original\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+D:\GeradorLotericaHexen Original\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+D:\GeradorLotericaHexen Original\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\dalvares\Documents\Visual Studio 2015\Projects\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.Cache
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+C:\Users\dalvares\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+C:\Users\dalvares\Desktop\Nova pasta (3)\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.pdb
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.xml
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.xml
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.xml
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CopyComplete
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.dll
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.pdb
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.xml
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojResolveAssemblyReference.cache
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+C:\Users\dalvares\Desktop\Master\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.Cache
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.dll
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.dll
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.pdb
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.xml
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.xml
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CopyComplete
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+F:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.dll
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.dll
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.pdb
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.xml
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.xml
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CopyComplete
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+D:\Programação\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.pdb
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CopyComplete
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.pdb
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.xml
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.xml
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.xml
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csprojAssemblyReference.cache
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CopyComplete
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+F:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.License.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.mshtml.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.xml
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.xml
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.xml
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.dll
+F:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.License.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.mshtml.dll
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.xml
+C:\Users\DECIO\Desktop\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe.config
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.exe
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\GeradorLotericaHexen.pdb
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.License.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.mshtml.dll
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.pdb
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ClosedXML.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\DocumentFormat.OpenXml.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\ExcelNumberFormat.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.xml
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.FormSecundaria.resources
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.TelaPrincipal.resources
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.Properties.Resources.resources
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.GenerateResource.cache
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CoreCompileInputs.cache
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.CopyComplete
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.exe
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.pdb
+G:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.AssemblyReference.cache
+D:\GeradorLotericaHexen\GeradorLotericaHexen\obj\Debug\GeradorLotericaHexen.csproj.AssemblyReference.cache
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.License.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.mshtml.dll
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\EPPlus.xml
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\IronXL.xml
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.Pdf.xml
+D:\GeradorLotericaHexen\GeradorLotericaHexen\bin\Debug\Spire.XLS.xml
